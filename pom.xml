@@ -43,10 +43,10 @@
     </scm>
 
     <modules>
-        <module>base</module>
-        <!--<module>highcpu</module>
+         <!--<module>base</module>-->
+       <module>highcpu</module>
         <module>hotmethods</module>
-        <module>latencies</module>
+        <!--<module>latencies</module>
         <module>allocations</module>
         <module>deadlock</module>
         <module>memoryleak</module>
